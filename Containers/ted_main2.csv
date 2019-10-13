@@ -1,0 +1,101 @@
+comments,duration,event,film_date,languages,main_speaker,name,num_speaker,published_date
+4553,1164,TED2006,1140825600,60,Ken Robinson,Ken Robinson: Do schools kill creativity?,1,1151367060
+265,977,TED2006,1140825600,43,Al Gore,Al Gore: Averting the climate crisis,1,1151367060
+124,1286,TED2006,1140739200,26,David Pogue,David Pogue: Simplicity sells,1,1151367060
+200,1116,TED2006,1140912000,35,Majora Carter,Majora Carter: Greening the ghetto,1,1151367060
+593,1190,TED2006,1140566400,48,Hans Rosling,Hans Rosling: The best stats you've ever seen,1,1151440680
+672,1305,TED2006,1138838400,36,Tony Robbins,Tony Robbins: Why we do what we do,1,1151440680
+919,992,TED2006,1140739200,31,Julia Sweeney,Julia Sweeney: Letting go of God,1,1152490260
+46,1198,TED2006,1140652800,19,Joshua Prince-Ramus,Joshua Prince-Ramus: Behind the design of Seattle's library,1,1152490260
+852,1485,TED2006,1138838400,32,Dan Dennett,Dan Dennett: Let's teach religion -- all religion -- in schools,1,1153181460
+900,1262,TED2006,1140825600,31,Rick Warren,Rick Warren: A life of purpose,1,1153181460
+79,1414,TED2006,1140912000,27,Cameron Sinclair,Cameron Sinclair: My wish: A call for open-source architecture,1,1153786260
+55,1538,TED2006,1140912000,20,Jehane Noujaim,Jehane Noujaim: My wish: A global day of film,1,1153786260
+71,1550,TED2006,1140652800,24,Larry Brilliant,Larry Brilliant: My wish: Help me stop pandemics,1,1153786260
+242,527,TED2006,1139184000,27,Jeff Han,Jeff Han: The radical promise of the multi-touch interface,1,1154391060
+99,1057,TED2006,1140652800,25,Nicholas Negroponte,Nicholas Negroponte: One Laptop per Child,1,1154391060
+325,1481,TED2006,1140652800,31,Sirena Huang,Sirena Huang: An 11-year-old's magical violin,1,1154995860
+305,1445,TED2004,1077753600,32,Jennifer Lin,"Jennifer Lin: Improvising on piano, aged 14",1,1154995860
+88,906,TED2006,1140739200,27,Amy Smith,Amy Smith: Simple designs to save a life,1,1155600660
+163,1170,TED2005,1109289600,22,Ross Lovegrove,"Ross Lovegrove: Organic design, inspired by nature",1,1155600660
+84,1201,TEDGlobal 2005,1121299200,32,Jimmy Wales,Jimmy Wales: The birth of Wikipedia,1,1156119060
+108,1114,TED2006,1140652800,27,Richard Baraniuk,Richard Baraniuk: The birth of the open-source learning revolution,1,1156119060
+185,1136,TED2004,1077580800,26,Ze Frank,Ze Frank: Nerdcore comedy,1,1156464660
+50,1006,TED2006,1140652800,20,Mena Trott,Mena Trott: Meet the founder of the blog revolution,1,1156464660
+556,1407,TED2006,1140739200,33,Helen Fisher,"Helen Fisher: Why we love, why we cheat",1,1157501460
+117,1225,TED2004,1075852800,23,Eve Ensler,Eve Ensler: Happiness in body and soul,1,1157501460
+184,1140,TEDGlobal 2005,1121299200,29,David Deutsch,David Deutsch: Chemical scum that dream of distant quasars,1,1158019860
+507,1316,TEDGlobal 2005,1120694400,36,Richard Dawkins,Richard Dawkins: Why the universe seems so strange,1,1158019860
+95,1275,TED2004,1077840000,25,Steven Levitt,Steven Levitt: The freakonomics of crack dealing,1,1158624660
+355,1050,TED2004,1077753600,37,Malcolm Gladwell,"Malcolm Gladwell: Choice, happiness and spaghetti sauce",1,1158624660
+970,1276,TED2004,1075680000,43,Dan Gilbert,Dan Gilbert: The surprising science of happiness,1,1159229460
+991,1177,TEDGlobal 2005,1121385600,45,Barry Schwartz,Barry Schwartz: The paradox of choice,1,1159229460
+213,1129,TED2005,1109376000,26,Eva Vertes,Eva Vertes: Meet the future of cancer research,1,1159747860
+612,1365,TEDGlobal 2005,1121299200,29,Aubrey de Grey,Aubrey de Grey: A roadmap to end aging,1,1159747860
+74,952,TEDGlobal 2005,1121212800,21,Iqbal Quadir,Iqbal Quadir: How mobile phones can fight poverty,1,1160439060
+58,773,TEDGlobal 2005,1120176000,26,Jacqueline Novogratz,Jacqueline Novogratz: Invest in Africa's own solutions,1,1160439060
+43,1080,TEDGlobal 2005,1121299200,21,Sasa Vucinic,Sasa Vucinic: Why we should invest in a free press,1,1161130260
+67,1125,TEDGlobal 2005,1121126400,24,Ashraf Ghani,Ashraf Ghani: How to rebuild a broken state,1,1161130260
+186,1177,TED2006,1140739200,28,Burt Rutan,Burt Rutan: The real future of space exploration,1,1161735060
+57,1083,TED2005,1109203200,26,Ben Saunders,Ben Saunders: Why did I ski to the North Pole?,1,1161735060
+112,1672,TED2005,1109203200,24,Bono,Bono: My wish: Three actions for Africa,1,1162253460
+58,2065,TED2005,1108598400,22,Edward Burtynsky,Edward Burtynsky: My wish: Manufactured landscapes and green education,1,1162253460
+33,1609,TED2005,1109203200,20,Robert Fischell,Robert Fischell: My wish: Three unusual medical inventions,1,1162253460
+105,1280,TEDGlobal 2005,1121299200,20,Peter Donnelly,Peter Donnelly: How juries are fooled by statistics,1,1162944660
+494,805,TED2006,1140652800,41,Michael Shermer,Michael Shermer: Why people believe weird things,1,1162944660
+233,1376,TED2005,1109203200,22,Ray Kurzweil,Ray Kurzweil: The accelerating power of technology,1,1163463060
+149,1200,TED2005,1109203200,26,Kevin Kelly,Kevin Kelly: How technology evolves,1,1163463060
+52,848,TED2006,1140652800,24,Peter Gabriel,Peter Gabriel: Fight injustice with raw video,1,1165363860
+578,210,TED2005,1109116800,66,Richard St. John,Richard St. John: 8 secrets of success,1,1166055060
+95,247,TEDSalon 2006,1164844800,34,Rives,Rives: If I controlled the Internet,1,1166055060
+199,198,TED2006,1140652800,48,Dean Ornish,Dean Ornish: The killer American diet that's sweeping the planet,1,1166055060
+85,843,TEDGlobal 2005,1121299200,22,Robert Neuwirth,Robert Neuwirth: The hidden world of shadow cities,1,1167696660
+499,1001,TED2005,1107302400,32,Bjorn Lomborg,Bjorn Lomborg: Global priorities bigger than climate change,1,1167696660
+371,1321,TED2003,1044230400,36,Wade Davis,Wade Davis: Dreams from endangered cultures,1,1168301460
+59,1115,TED2006,1140652800,29,Phil Borges,Phil Borges: Photos of endangered cultures,1,1168301460
+203,1046,TEDGlobal 2005,1121299200,29,Martin Rees,Martin Rees: Is this our final century?,1,1168992660
+130,1151,TED2006,1138838400,23,Robert Wright,Robert Wright: Progress is not a zero-sum game,1,1168992660
+47,603,TEDSalon 2006,1164844800,29,Steven Johnson,"Steven Johnson: How the ""ghost map"" helped end a killer disease",1,1170202260
+91,1141,TEDGlobal 2005,1121299200,24,Charles Leadbeater,Charles Leadbeater: The era of open innovation,1,1170202260
+222,825,TED2005,1109289600,0,Pilobolus,"Pilobolus: A dance of ""Symbiosis""",1,1170979860
+111,1385,TED2005,1109289600,19,Anna Deavere Smith,Anna Deavere Smith: Four American characters,1,1170979860
+28,869,TED2006,1140652800,18,Saul Griffith,Saul Griffith: Everyday inventions,1,1171843860
+64,1038,TED2006,1138838400,17,Neil Gershenfeld,Neil Gershenfeld: Unleash your creativity in a Fab Lab,1,1171843860
+226,1155,TEDGlobal 2005,1120694400,30,Carl Honoré,Carl Honoré: In praise of slowness,1,1172621460
+97,1447,TED2007,1173312000,26,Bill Clinton,Bill Clinton: My wish: Rebuilding Rwanda,1,1175559060
+89,1355,TED2007,1173312000,26,E.O. Wilson,E.O. Wilson: My wish: Build the Encyclopedia of Life,1,1175559060
+107,1316,TED2007,1173312000,23,James Nachtwey,James Nachtwey: My wish: Let my photographs bear witness,1,1175559060
+161,1645,TED2002,1014940800,31,Jane Goodall,Jane Goodall: What separates us from chimpanzees?,1,1175731860
+220,1021,TED2003,1046304000,31,Seth Godin,Seth Godin: How to get your ideas to spread,1,1175731860
+114,1211,TED2005,1107302400,28,James Watson,James Watson: How we discovered DNA,1,1175731860
+88,873,TED2004,1077753600,31,Al Seckel,Al Seckel: Visual illusions that show how we (mis)think,1,1175731860
+130,1207,TED2002,1012608000,18,Dean Kamen,Dean Kamen: To invent is to give,1,1175731860
+49,1340,TED2003,1044144000,20,Juan Enriquez,Juan Enriquez: The life code that will reshape the future,1,1175731860
+86,930,TED2004,1075680000,26,Stefan Sagmeister,Stefan Sagmeister: Happiness by design,1,1175731860
+107,1054,TEDGlobal 2005,1120694400,32,Alex Steffen,Alex Steffen: The route to a sustainable future,1,1175731860
+50,1240,TED2005,1109289600,16,Thom Mayne,Thom Mayne: How architecture can connect us,1,1175731860
+78,1204,TED2002,1012608000,23,Chris Bangle,Chris Bangle: Great cars are great art,1,1175731860
+40,276,TEDSalon 2006,1166054400,28,Nora York,"Nora York: Singing ""What I Want""",1,1175731860
+27,850,TEDGlobal 2005,1121299200,24,Paul Bennett,Paul Bennett: Design is in the details,1,1175731860
+84,891,TED2003,1046304000,23,Vik Muniz,"Vik Muniz: Art with wire, sugar, chocolate and string",1,1175731860
+131,1012,TEDGlobal 2005,1121299200,24,Nick Bostrom,Nick Bostrom: A philosophical quest for our biggest problems,1,1175731860
+127,1399,TED2005,1109203200,24,Janine Benyus,Janine Benyus: Biomimicry's surprising lessons from nature's engineers,1,1175731860
+34,1011,TEDGlobal 2005,1109203200,21,Craig Venter,Craig Venter: Sampling the ocean's DNA,1,1175731860
+47,893,TED2004,1077840000,20,Golan Levin,Golan Levin: Software (as) art,1,1175731860
+335,1045,TED2004,1075680000,28,Susan Savage-Rumbaugh,Susan Savage-Rumbaugh: The gentle genius of bonobos,1,1175731860
+143,977,TED2005,1107302400,30,Frans Lanting,Frans Lanting: The story of life in photographs,1,1175731860
+57,985,TED2004,1077667200,18,Sheila Patek,Sheila Patek: The shrimp with a kick!,1,1175731860
+39,163,TED2006,1140912000,38,Jill Sobule,"Jill Sobule: Global warming's theme song, ""Manhattan in January""",1,1175819400
+34,459,TED2005,1107302400,25,Caroline Lavelle,Caroline Lavelle: Casting a spell on the cello,1,1175835900
+501,1308,TED2003,1046304000,31,Dan Dennett,Dan Dennett: The illusion of consciousness,1,1175855580
+296,1929,TED2003,1044144000,32,Evelyn Glennie,Evelyn Glennie: How to truly listen,1,1175881860
+231,1205,TED2005,1107302400,25,William McDonough,William McDonough: Cradle to cradle design,1,1175882580
+58,1031,TED2003,1044144000,22,Jeff Bezos,Jeff Bezos: The electricity metaphor for the web's future,1,1176162180
+58,251,TED2006,1138838400,25,Rives,Rives: A mockingbird remix of TED2006,1,1176163140
+75,378,TED2003,1044144000,28,Eddi Reader,"Eddi Reader: ""Kiteflyer's Hill""",2,1176586800
+50,312,TED2003,1044144000,25,Eddi Reader,"Eddi Reader: ""What You've Got""",2,1176586800
+588,1172,TED2005,1107302400,22,Tom Honey,Tom Honey: Why would God create a tsunami?,1,1176688500
+6404,1750,TED2002,1012608000,42,Richard Dawkins,Richard Dawkins: Militant atheism,1,1176689220
+49,1195,TED2006,1138838400,16,Tom Rielly,Tom Rielly: A comic sendup of TED2006,1,1176695640
+39,201,TED2004,1075680000,33,Rachelle Garniez,"Rachelle Garniez: ""La Vie en Rose""",2,1176701700
+42,858,TED2004,1075680000,23,Chris Anderson,Chris Anderson: Technology's long tail,1,1177632660
