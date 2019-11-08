@@ -1,5 +1,4 @@
-// Characters.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
 
 #include <iostream>
 #include <string.h>
@@ -14,6 +13,7 @@ public:
 	int m_level;
 	int m_ExpPoints;
 	virtual void setName() = 0;
+	virtual void print() = 0;
 
 };
 
@@ -32,6 +32,7 @@ public:
 	int m_Strength;
 	void setName();
 	void setArmor(int t_Armor) { this->m_Armor = t_Armor; }
+	void print() override;
 };
 Figther::Figther() {
 	m_ClassName = "Fighter";
@@ -44,17 +45,37 @@ Figther::Figther() {
 	m_Weapon = "Sword";
 }
 void Figther::setName() {
-	cout << "Ingrese nombre" << endl;
+	cout << "Ingrese nombre del guerrero" << endl;
 	cin >> this->m_Name;
 }
-class Wizard :public Character {
+void Figther::print() {
+	cout << endl;
+	cout << "PLAYER STATS" << endl;
+	cout << "============" << endl;
+	cout << endl;
+	cout << "Name = " << this->m_Name << endl;
+	cout << "Class = " << this->m_ClassName << endl;
+	cout << "Weapon Range = " << this->m_WeaponRange << endl;
+	cout << "Level = " << this->m_level << endl;
+	cout << "XP = " << this->m_ExpPoints << endl;
+	cout << "Armor = " << this->m_Armor << endl;
+	cout << "Strength = " << this->m_Strength << endl;
+	cout << "Weapon = " << this->m_Weapon << endl;
+	cout << endl;
+	cout << "END PLAYER STATS" << endl;
+	cout << "================" << endl;
+	cout << endl;
+	
+}
+class Wizard : public Character {
+public:
 	Wizard();
 	int m_MagicArmor;
 	string m_Spell;
 	int m_Intelligence;
 	void setName();
 	void setIntelligence(int t_Intelligence) { m_Intelligence = t_Intelligence; }
-
+	void print();
 };
 Wizard::Wizard() {
 	m_ClassName = "Wizard";
@@ -66,15 +87,41 @@ Wizard::Wizard() {
 	m_Intelligence = 18;
 	m_Spell = "Fire Ball";
 }
+void Wizard::print() {
+	cout << endl;
+	cout << "PLAYER STATS" << endl;
+	cout << "============" << endl;
+	cout << endl;
+	cout << "Name = " << this->m_Name << endl;
+	cout << "Class = " << this->m_ClassName << endl;
+	cout << "Weapon Range = " << this->m_WeaponRange << endl;
+	cout << "Level = " << this->m_level << endl;
+	cout << "XP = " << this->m_ExpPoints << endl;
+	cout << "Magic Armor = " << this->m_MagicArmor << endl;
+	cout << "Intelligence = " << this->m_Intelligence << endl;
+	cout << "Spell = " << this->m_Spell << endl;
+	cout << endl;
+	cout << "END PLAYER STATS" << endl;
+	cout << "================" << endl;
+	cout << endl;
+}
 void Wizard::setName() {
-	cout << "Ingrese nombre" << endl;
+	cout << "Ingrese nombre del mago" << endl;
 	cin >> this->m_Name;
 }
 int main()
 {
-	Figther PC1;
-	PC1.setArmor(10);
-	cout << PC1.m_Armor << endl;
 
+	Figther PC1;
+	Wizard PC2;
+
+	PC1.setArmor(10);
+	PC1.setName();
+
+	PC2.setName();
+
+	PC2.print();
+	PC1.print();
+	return 0;
 }
 
